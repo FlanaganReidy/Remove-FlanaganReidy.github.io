@@ -1,0 +1,162 @@
+body {
+  background-color: white;
+  font-family: 'Gudea', sans-serif;
+  margin: 5% 15% 5% 15%;
+}
+
+.name {
+  color: #DF723E;
+  display: inline-block;
+  font-size: 1.6em;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.contact-information {
+  color: #808284;
+  display: inline-block;
+  font-size: .8em;
+  letter-spacing: .5px;
+  line-height: .9em;
+  text-transform: uppercase;
+  float: right;
+}
+
+.links-container {
+  color: #808284;
+  display: inline-block;
+  font-size: .8em;
+  letter-spacing: 1px;
+  line-height: .9em;
+  text-transform: uppercase;
+}
+
+.nav {
+  color: #808284;
+  font-size: .8em;
+  letter-spacing: 1px;
+  line-height: .9em;
+  text-transform: uppercase;
+  margin-right: 7%;
+}
+
+.contact-deets {
+  color: #58585B;
+  display: inline-block;
+  margin-bottom: 2%;
+  margin-top: 1.1em;
+  text-decoration: none;
+  text-align: left;
+}
+
+.link {
+  color: #DF723E;
+  display: inline-block;
+}
+  .link:hover {
+    color: #DF723E;
+  }
+
+.link img {
+  margin-bottom: -.2em;
+  padding-right: .3em;
+  padding-left: .3em;
+}
+
+.job {
+  color: #DF723E;
+  display: inline-block;
+  font-size: 1em;
+  letter-spacing: 1px;
+  margin-bottom: -1%;
+  text-decoration: none;
+}
+
+.location {
+  color: #58585B;
+  display: inline-block;
+  font-size: .8em;
+  letter-spacing: 1px;
+  margin-bottom: -1%;
+  margin-top: 1.1em;
+  padding-left: .4em;
+  text-transform: uppercase;
+}
+
+.category-headers {
+  color: #DF723E;
+  font-size: 1.1em;
+  letter-spacing: 2px;
+  margin-top: 1.5em;
+  margin-bottom: .1em;
+  text-transform: uppercase;
+}
+
+.role {
+  color: #808284;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.4em;
+  margin-bottom: 1%;
+  margin-left: 2%;
+  margin-top: .5em;
+}
+
+.date {
+  color: #808284;
+  font-size: .9em;
+  font-style: italic;
+  line-height: 1.4em;
+  margin-bottom: 1%;
+  margin-left: 0%;
+  margin-top: .5em;
+}
+
+.profile {
+  color: #808284;
+  font-size: .9em;
+  line-height: 1.4em;
+  margin-bottom: 1%;
+  margin-left: 2%;
+  margin-right: 7%;
+  margin-top: 1em;
+}
+
+.summary {
+  color: #808284;
+  font-size: .9em;
+  line-height: 1.4em;
+  margin-bottom: 1%;
+  margin-left: .01em;
+  margin-right: 7%;
+  margin-top: .01em;
+}
+
+.project {
+  color: #808284;
+  font-size: .9em;
+  line-height: 1.4em;
+  margin-bottom: 1%;
+  margin-left: 2%;
+  margin-right: 7%;
+  margin-top: .01em;
+}
+
+.project-details {
+  color: #808284;
+  font-size: .9em;
+  line-height: 1.4em;
+  margin-bottom: 1%;
+  margin-left: .01em;
+  margin-right: 7%;
+  margin-top: .01em;
+}
+
+hr {
+  border: 1px dotted #A7A9AB;
+  border-style: none none dotted;
+  margin: 0 10% 0 0;
+}
